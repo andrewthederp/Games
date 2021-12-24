@@ -1,5 +1,5 @@
 # Games
-A repository containing games i create using pygame
+A repository containing 1 file games i create using pygame
 
 ## color-test.py
   - A 100x100 window which displays a bunch of random colors, press space to go to the next color, press enter to print the color rgb value, press right key arrow to go back to the previous color
