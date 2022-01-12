@@ -19,4 +19,8 @@ A repository containing 1 file games i create using pygame
 ## towerstack.py
   - A game where you have to stack rectangles on top of each other
 
-These are all the games i made in pygame so far, more games like bricks is to be excpected in the future
+## brickout.py
+  - The classic brickout game (the angles still need to be fixed)
+
+## maze.py
+  - Will create a level based on the `maze` string, then the goal is for the play to reach the end square, if anyone knows the actual name of this game please tell
