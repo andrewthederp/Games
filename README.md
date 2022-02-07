@@ -24,3 +24,12 @@ A repository containing 1 file games i create using pygame
 
 ## maze.py
   - Will create a level based on the `maze` string, then the goal is for the play to reach the end square, if anyone knows the actual name of this game please tell
+
+## microsoft pain the great.py
+  - A shitty ripoff of microsoft paint, you can draw a house i guess
+
+## snake.py
+  - snek go sssss
+
+## connect4.py
+  - connect4 using pygame, pretty proud of the collisions 
