@@ -36,3 +36,6 @@ A repository containing 1 file games i create using pygame
 
 ## bouncy balls.py
   - try to touch the epileptic square while avoiding the bouncy balls
+  - 
+## calc.py
+  - a simple calculator 
