@@ -33,3 +33,6 @@ A repository containing 1 file games i create using pygame
 
 ## connect4.py
   - connect4 using pygame, pretty proud of the collisions 
+
+## bouncy balls.py
+  - try to touch the epileptic square while avoiding the bouncy balls
